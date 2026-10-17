@@ -1,0 +1,10 @@
+{
+  "_help": "આ file Notepad/GitHub માં Edit કરો. roundNames = 7 Round ના નામ. boxPool = દરેક Round ના 6 Mystery Box ના points (6 જ હોવા જોઈએ, દરેક Player માટે random ગોઠવાય). lastRoundMult = છેલ્લા Round ના Box points ગણા. boxSec = Box પસંદ કરવાની સેકન્ડ. cardCounts = Card માં દરેક Round ના કેટલા જવાબ (કુલ 25).",
+  "roundNames": ["શરૂઆત","ગુજરાતની ઓળખ","ઉખાણાં અને કહેવત","લાઇટનિંગ","ઇમોજી રાઉન્ડ","હું કોણ છું?","ગ્રાન્ડ ફિનાલે"],
+  "correctPts": 2,
+  "wrongPts": 1,
+  "boxPool": [1,2,3,3,5,0],
+  "lastRoundMult": 2,
+  "boxSec": 20,
+  "cardCounts": [4,4,4,4,3,3,3]
+}
